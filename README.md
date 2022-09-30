@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning QML
 - 💞️ I’m looking to collaborate on Dota card game
 - 📫 How to reach me abc8333@gmail.com
+- 🌏 My blog: www.thinkinginqt.com
+
 
 <!---
 abc881858/abc881858 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
