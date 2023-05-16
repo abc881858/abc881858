@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning QML
 - 💞️ I’m looking to collaborate on Dota card game
 - 📫 How to reach me abc8333@gmail.com
-- 🌏 My blog: thinkinginqt.com
+- 🌏 My blog https://thinkinginqt.com
 
 
 <!---
